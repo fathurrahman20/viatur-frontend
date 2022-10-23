@@ -4,6 +4,6 @@
 
 <template>
   <RouterLink to="/" class="flex items-center">
-    <img src="./src/assets/img/viatur-logo.svg" class="h-8 ml-3 sm:ml-0 sm:h-8" alt="Viatur Logo" />
+    <img src="../../assets/img/viatur-logo.svg" class="h-8 ml-3 sm:ml-0 sm:h-8" alt="Viatur Logo" />
   </RouterLink>
 </template>
