@@ -4,10 +4,10 @@ import CategoriesCard from "./../CategoriesCard.vue";
 import {ref} from "vue";
 
 const categories = ref([
-  {id: 1, title: 'Motivation & Self-Help', total: 2, image: "categories-1.jpg" },
-  {id: 2, title: 'Computer & Technology', total: 1, image: "categories-2.jpg" },
-  {id: 3, title: 'Business & Investing', total: 0, image: "categories-3.jpg" },
-  {id: 4, title: 'Reference & Dictionary', total: 0, image: "categories-4.jpg" },
+  {id: 1, title: 'Motivation & Self-Help', total: 2, image: "/src/assets/img/categories-1.jpg" },
+  {id: 2, title: 'Computer & Technology', total: 1, image: "/src/assets/img/categories-2.jpg" },
+  {id: 3, title: 'Business & Investing', total: 0, image: "/src/assets/img/categories-3.jpg" },
+  {id: 4, title: 'Reference & Dictionary', total: 0, image: "/src/assets/img/categories-4.jpg" },
 ])
 
 </script>

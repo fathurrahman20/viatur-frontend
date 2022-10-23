@@ -4,9 +4,9 @@ import {ref} from "vue";
 import ItemsCard from "./../ItemCard.vue";
 
 const items = ref([
-  {id: 1, title: "Atomic Habits", img: "item-1.jpg", category: "Motivation & Self-Help"},
-  {id: 2, title: "The Psychology of Money", img: "item-2.jpg", category: "Motivation & Self-Help"},
-  {id: 3, title: "Finding The Next Starbucks", img: "item-3.jpg", category: "Business & Technology"},
+  {id: 1, title: "Atomic Habits", img: "/src/assets/img/item-1.jpg", category: "Motivation & Self-Help"},
+  {id: 2, title: "The Psychology of Money", img: "/src/assets/img/item-2.jpg", category: "Motivation & Self-Help"},
+  {id: 3, title: "Finding The Next Starbucks", img: "/src/assets/img/item-3.jpg", category: "Business & Technology"},
 ])
 </script>
 
