@@ -1,7 +1,7 @@
 <script setup>
-import Logo from './sub_component/Logo.vue';
-import Navlink from './sub_component/NavigationLinks.vue'
-import UserInfoButton from './sub_component/UserInfoButton.vue'
+import Logo from './Logo.vue';
+import Navlink from './NavigationLinks.vue'
+import UserInfoButton from './UserInfoButton.vue'
 </script>
 
 <template>
